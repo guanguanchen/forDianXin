@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  MainWindow.cpp
+e:\vs2017pojects\windowsproject1\windowsproject1\mainwindow.cpp(228): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+e:\vs2017pojects\windowsproject1\windowsproject1\mainwindow.cpp(229): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+  PointGeneration.cpp
+e:\vs2017pojects\windowsproject1\windowsproject1\pointgeneration.cpp(13): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+e:\vs2017pojects\windowsproject1\windowsproject1\pointgeneration.cpp(19): warning C4244: '=': conversion from 'unsigned int' to 'FLOAT', possible loss of data
+e:\vs2017pojects\windowsproject1\windowsproject1\pointgeneration.cpp(20): warning C4244: '=': conversion from 'unsigned int' to 'FLOAT', possible loss of data
+  Units.cpp
+  WindowsProject1.cpp
+  list.cpp
+  Generating Code...
+  WindowsProject1.vcxproj -> E:\vs2017Pojects\WindowsProject1\Debug\WindowsProject1.exe
